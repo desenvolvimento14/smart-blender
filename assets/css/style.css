@@ -165,6 +165,19 @@
         display: grid;
     }
 
+    .grid_box-text {
+        border: 1px solid #000;
+        padding: 1rem;
+        border-radius: 16px;
+        margin: 1rem 2rem 0rem 2rem;
+    }
+
+    .grid_box-text-01 {
+        display: grid;
+        justify-content: center;
+        margin-top: 2.5rem;
+    }
+
     /*======================================================= LAYOUT =======================================================*/
 
     .bg_shadow-box {
