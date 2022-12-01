@@ -59,7 +59,7 @@
     .main-title_xiaomi-smart-blender-06 {font-size: 1.2rem; color: var(--title-white); text-align: center; padding: 1rem 1rem 0.5rem 1rem;}
     
     .sub-title_xiaomi-smart-blender-01 {font-size: 1rem; color: var(--title); line-height: 1.5rem; text-align: center; padding: 1rem;}
-    .sub-title_xiaomi-smart-blender-01-01 {font-size: 1rem; color: var(--title); line-height: 1.1rem; text-align: center; padding: 0rem 1rem 0rem 1rem;}
+    .sub-title_xiaomi-smart-blender-01-01 {font-size: 1rem; color: var(--title); line-height: 1.4rem; text-align: center; padding: 0.5rem 1rem 0rem 1rem;}
     .sub-title_xiaomi-smart-blender-01-02 {font-size: 1rem; color: var(--title); line-height: 1.5rem; text-align: left; padding: 1rem 2rem 1rem 2rem;}
     .sub-title_xiaomi-smart-blender-01-03 {font-size: 1rem; color: var(--title-white); line-height: 1.1rem; text-align: center; padding: 0rem 1rem 0rem 1rem;}
 
@@ -175,7 +175,7 @@
     .grid_box-text-01 {
         display: grid;
         justify-content: center;
-        margin-top: 2.5rem;
+        margin-top: 0.5rem;
     }
 
     /*======================================================= LAYOUT =======================================================*/
